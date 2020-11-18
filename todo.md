@@ -1,5 +1,5 @@
-Project TODO List
+Project TODO List:
 
 [] Create Framework
-[] Insert Content  
+[] Insert Content 
 [] Userbility Test 
